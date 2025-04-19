@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi!, I'm Samuel 👋
+I am aspiring to work in data related field. Right now i am learning SQL and Tableau to expand my knowledge 
+
+
+## 💻Tech Stack:
+![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/lua-brown?style=for-the-badge&logo=lua&logoColor=white)
+
 
 <!--
 **SamuAnders/SamuAnders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
