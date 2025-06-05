@@ -1,5 +1,5 @@
 ## Hi!, I'm Samuel 👋
-I am aspiring to work in data related field. Right now i am learning to build ELT with dbt, snowflake, and airflow 😄 
+I am aspiring to work in data related field. Right now i am learning about cloud 
 
 
 ## 💻Tech Stack:
