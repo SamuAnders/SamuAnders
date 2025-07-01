@@ -1,5 +1,5 @@
 ## Hi!, I'm Samuel 👋
-I am aspiring to work in data related field. Right now i am learning about cloud 
+I am aspiring to work in data related field.
 
 
 ## 💻Tech Stack:
